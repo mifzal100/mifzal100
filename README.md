@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning python and Java.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Java.
-- 📫 How to reach me, is by email.
+- 📫 How to reach me, is by my email.
 
 <!---
 mifzal100/mifzal100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
